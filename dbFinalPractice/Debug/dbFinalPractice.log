@@ -1,0 +1,4 @@
+﻿  dbFinalPractice.cpp
+c:\users\kim hyunwoo\documents\visual studio 2015\projects\dbfinalpractice\dbfinalpractice.cpp(70): warning C4474: 'wprintf' : too many arguments passed for format string
+  c:\users\kim hyunwoo\documents\visual studio 2015\projects\dbfinalpractice\dbfinalpractice.cpp(70): note: placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  dbFinalPractice.vcxproj -> C:\Users\KIM HYUNWOO\documents\visual studio 2015\Projects\dbFinalPractice\Debug\dbFinalPractice.exe
